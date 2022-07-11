@@ -1,3 +1,13 @@
+# To run this project in local follow below steps
+
+1. clone the master branch into your local 
+2. go to bhn-ui-common-coponents
+3. run ### `npm install`
+4. after completation of installation.
+5. run ### `npm run storybook`
+
+Then your project run in #localhost:6006 port
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
