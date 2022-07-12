@@ -3,8 +3,9 @@
 1. clone the master branch into your local 
 2. go to bhn-ui-common-coponents
 3. run ### `npm install`
-4. after completation of installation.
-5. run ### `npm run storybook`
+4. run ### `npx -p @storybook/cli sb init --type react`
+5. after completation of installation.
+6. run ### `npm run storybook`
 
 Then your project run in #localhost:6006 port
 
